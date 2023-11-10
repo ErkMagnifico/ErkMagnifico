@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Amit Ghosh, a third year Computer Science student at BITS Pilani Hyderabad Campus.
+- 🔭 I’m interested in interdisciplinary fields, especially those related to Machine Learning.
+- 🌱 I’m currently learning Natural Language Processing and Neuroscience.
+
+Hope my profile piques your interest!
 
 <!--
 **ErkMagnifico/ErkMagnifico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
