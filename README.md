@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Amit Ghosh, a third year Computer Science student at BITS Pilani Hyderabad Campus.
+I'm Amit Ghosh, a final year Computer Science student at BITS Pilani Hyderabad Campus.
 - 🔭 I’m interested in interdisciplinary fields, especially those related to Machine Learning.
 - 🌱 I’m currently learning Natural Language Processing and Neuroscience.
 
